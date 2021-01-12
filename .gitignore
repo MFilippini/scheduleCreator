@@ -1,0 +1,6 @@
+schedule.txt
+token.pickle
+.vscode/settings.json
+__pycache__/cal_setup.cpython-36.pyc
+credentials.json
+calendarID.txt
